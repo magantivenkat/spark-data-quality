@@ -4,6 +4,9 @@ title: Introduction to Spark Data Quality
 sidebar_label: Introduction
 ---
 
+# DEPRECATED
+This repository has been renamed - you can [find the new version here](https://github.com/timgent/data-flare)
+
 Spark Data Quality (SDQ) is a data quality library built on top of [Apache Spark](https://spark.apache.org/), and enables
 you assure the data quality of large scale datasets, both by providing fast feedback on the quality of your data, and
 by enabling you to easily store and visualize key metrics for your data and track them over time.
